@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "tim.h": "c",
+        "gpio.h": "c",
+        "connect.h": "c",
+        "stepmotor.h": "c",
+        "main.h": "c",
+        "upload.h": "c",
+        "joystick.h": "c",
+        "limitswitch.h": "c",
+        "usart.h": "c",
+        "demo.h": "c",
+        "string": "c",
+        "math.h": "c"
+    }
+}
